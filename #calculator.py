@@ -15,7 +15,7 @@ class Calculator:
     
     def divide (self, a, b):
         if b == 0:
-            print ("ERRORR! DIVISION BY ZERO IS NOT ALLOWED")
+            print ("ERRORR! DIVISION BY ZERO IS NOT ALLOWED, PLEASE TRY AGAIN")
 
         return a / b
     
